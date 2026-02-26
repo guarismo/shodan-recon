@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Skill
+
+A Claude Code skill for this library is available at `docs/SKILL.md` and installed at `~/.claude/skills/shodan-recon/SKILL.md`. It covers the full API, credit costs, caching, analysis methods, and workflows in a format optimized for Claude Code discovery.
+
 ## Commands
 
 ```bash
